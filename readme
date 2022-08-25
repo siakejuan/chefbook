@@ -1,0 +1,11 @@
+An application to save recipes and create shopping list.
+Data is stored in Firebase.
+
+To start:
+1. run npm install;
+2. login with
+    username: sia@email.com
+    password: abc123
+3. fetch recipes by going to "Manage" drop down and "Fetch Data".
+4. You can add new recipes or delete existing recipes.
+5. You can manage your shopping list by adding in new ingredients and its quantity.
